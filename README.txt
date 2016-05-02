@@ -11,4 +11,4 @@ file : Program of vertex-cover using primal dual algorithm
 
 #The output is printed in terminal
 
-#To run the program go to the directory and type "python cs12b1030.py" 
+#To run the program go to the directory and type "python vertexCover.py" 
